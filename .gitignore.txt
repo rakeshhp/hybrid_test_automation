@@ -1,0 +1,6 @@
+.settings
+.classpath
+.idea
+target/
+test-output/
+.hybrid_test_automation.iml
